@@ -1,4 +1,3 @@
-```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
@@ -637,4 +636,3 @@ print("\n===== 분석 완료 =====")
 print(
     "대전 2023~2024년 일별 기온 데이터 분석이 완료되었습니다."
 )
-```
